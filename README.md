@@ -4,7 +4,7 @@ One of the primary methods for spam mail detection is email filtering. It involv
 • The project code is completely developed using Python.
 
 • Dataset is taken from a publicly available YouTube tutorial. It contains labeled SMS messages classified as 'spam' or 'ham' (not spam).  
-  📌 Source: [https://www.youtube.com/watch?v=your-link-here (replace with actual video link](https://youtu.be/rxkGItX5gGE?si=oRZKppOMfOAw8sbX))
+📌 Source: [https://www.youtube.com/watch?v=your-link-here (replace with actual video link](https://youtu.be/rxkGItX5gGE?si=oRZKppOMfOAw8sbX))
 
 • Required packages installed: pandas, re, nltk, sklearn, seaborn, matplotlib, tqdm, time
 
@@ -13,6 +13,7 @@ One of the primary methods for spam mail detection is email filtering. It involv
 • Logistic Regression is used as the classification model to achieve high accuracy on the text data processed through NLP.
 
 • Finally, a classification report is generated to summarize model accuracy.
+
 
 ---
 
